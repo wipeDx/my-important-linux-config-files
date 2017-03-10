@@ -1,0 +1,1 @@
+synclient TapButton1=1 TapButton2=3 TapButton=2 HorizTwoFingerScroll=1 VertTwoFingerScroll=1 HorizScrollDelta=-73 VertScrollDelta=-73
